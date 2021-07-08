@@ -18,4 +18,10 @@
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
+	<url>
+		<loc>https://wiki.onetwo.ren/#:软件架构</loc>
+		<lastmod>2021-07-08</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
 </urlset>
